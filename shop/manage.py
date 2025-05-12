@@ -19,4 +19,4 @@ def main():
 
 
 if __name__ == '__main__':
-    git remote add origin https://github.com/yunoqii/django-base.gitgit remote add origin https://github.com/yunoqii/django-base.git    main()
+    main()
